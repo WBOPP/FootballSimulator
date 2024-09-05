@@ -1,0 +1,18 @@
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\bin\Debug\FootBallGameReal.exe.config
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\bin\Debug\FootBallGameReal.exe
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\bin\Debug\FootBallGameReal.pdb
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.csproj.AssemblyReference.cache
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.Form1.resources
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.Properties.Resources.resources
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.csproj.GenerateResource.cache
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.csproj.CoreCompileInputs.cache
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.exe
+C:\Users\Boppwll\source\repos\FootBallGameReal\FootBallGameReal\obj\Debug\FootBallGameReal.pdb
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\bin\Debug\FootBallGameReal.exe
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\bin\Debug\FootBallGameReal.pdb
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\obj\Debug\FootBallGameReal.csproj.AssemblyReference.cache
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\obj\Debug\FootBallGameReal.Form1.resources
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\obj\Debug\FootBallGameReal.csproj.GenerateResource.cache
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\obj\Debug\FootBallGameReal.csproj.CoreCompileInputs.cache
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\obj\Debug\FootBallGameReal.exe
+C:\Users\Boppwll\source\VS Code\FootBallSimulator\FootBallGameReal\obj\Debug\FootBallGameReal.pdb
